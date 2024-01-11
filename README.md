@@ -37,11 +37,8 @@ Nous avons exploré deux approches différentes pour générer des résumés dan
 
 ## Évaluations des modèles fine-tunés
 Nous avons évalué les performances des modèles fine-tunés sur notre tâche de résumé en utilisant les métriques appropriées. Voici les modèles fine-tunés que nous avons évalués :
-![image](https://github.com/ibtissam01/News-Text-Summarization/assets/89752387/0ed674e4-b13d-4274-8443-c343b66b3ec4)
 
 - Modèle T5 fine-tuné pour la génération de résumés de news : [ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum](https://github.com/ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum)
-
-![image](https://github.com/ibtissam01/News-Text-Summarization/assets/89752387/c3841c64-419e-4de0-af2b-4245b2f8ab4e)
 
 - Modèle AraT5v2 fine-tuné pour la génération de résumés d'articles d'Al Jazeera : [ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera](https://github.com/ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera)
 
