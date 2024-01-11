@@ -38,9 +38,9 @@ Nous avons exploré deux approches différentes pour générer des résumés dan
 ## Évaluations des modèles fine-tunés
 Nous avons évalué les performances des modèles fine-tunés sur notre tâche de résumé en utilisant les métriques appropriées. Voici les modèles fine-tunés que nous avons évalués :
 
-- Modèle T5 fine-tuné pour la génération de résumés de news : [ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum](https://github.com/ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum)
+- Modèle T5 fine-tuné pour la génération de résumés de news : [ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum](https://huggingface.co/ibtissam369/t5-base-finetuned-summarize-news-finetuned-xsum))
 
-- Modèle AraT5v2 fine-tuné pour la génération de résumés d'articles d'Al Jazeera : [ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera](https://github.com/ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera)
+- Modèle AraT5v2 fine-tuné pour la génération de résumés d'articles d'Al Jazeera : [ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera](https://huggingface.co/ibtissam369/AraT5v2-base-1024-finetuned-ALjazeera))
 
 ## Conclusion
 En conclusion, les modèles RNN (Réseaux de Neurones Récurrents) et LLMs (Langage Models) offrent des avantages significatifs pour les tâches de résumé grâce à leur capacité à capturer les dépendances contextuelles à long terme et à être adaptés à travers le fine-tuning. Cependant, il reste des défis à relever, tels que la génération de résumés cohérents et la gestion des ressources computationnelles. De plus, l'extension de ces modèles à des langues spécifiques comme le darija nécessite des efforts supplémentaires de collecte de données et de formation.
